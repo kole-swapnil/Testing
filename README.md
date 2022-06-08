@@ -1,3 +1,3 @@
 # Git testing
 
-__HacktoberFest 2.0__
+__HacktoberFest 3.0__
